@@ -1,0 +1,21 @@
+body{
+  background-color: #00737e;
+  font-family: verdana;
+  color: #FFFFFF;
+  border:dashed 3px #000000;
+}
+h1{
+	font-size:20px;
+}
+h2{
+	font-size:17px;
+}	
+h3{
+	font-size:17px;
+}
+li{
+	font-size:14px;
+} 
+a{
+	color:#FFFFFF;
+}
